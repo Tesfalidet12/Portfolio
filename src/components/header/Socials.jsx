@@ -14,7 +14,7 @@ const Socials = () => {
       <a href="https://github.com/Tesfalidet12" target="_blank">
         <FaGithub />
       </a>
-      <a href="http://whatsapp.com" target="_blank">
+      <a href="http://www.whatsapp.com" target="_blank">
         <FaWhatsapp />
       </a>
     </div>
