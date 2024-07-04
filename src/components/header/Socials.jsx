@@ -6,7 +6,7 @@ const Socials = () => {
   return (
     <div className="socials">
       <a
-        href="www.linkedin.com/in/tesfalidet-birhanu-943a80252"
+        href="https://www.linkedin.com/in/tesfalidet-birhanu-943a80252/"
         target="_blank"
       >
         <FaLinkedin />
